@@ -2,7 +2,7 @@
 \language"deutsch"
 \header {
   title = "Duo"
-  composer = "Stefan*Filine"
+  composer = "Stefan und Filine"
 }
 global = { \key g \major
 \time 3/4 }
